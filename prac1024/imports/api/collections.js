@@ -1,4 +1,4 @@
-// collection.js
+// collections.js
 
 import { Mongo } from 'meteor/mongo';
 
